@@ -1,0 +1,14 @@
+*{
+	margin: 0;
+	padding: 0;
+ 
+}
+h1{
+	text-align: center;
+	padding: 20px;
+}
+.register{
+	background-image: url(books.jpg); 
+	text-align:center;
+	color: blue;
+}

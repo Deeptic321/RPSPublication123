@@ -1,0 +1,17 @@
+*{
+	margin: 0;
+	padding: 0;
+ 
+}
+h1{
+	text-align: center;
+	padding: 20px;
+}
+.register{
+	background-image: url(formss.jpg);
+background-size: cover;
+background-position:center;
+position:relative; 
+	text-align:center;
+	color: blue;
+}
